@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15107" started-at="2020-03-06T13:03:25 IST" finished-at="2020-03-06T13:03:40 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15107" started-at="2020-03-06T13:03:25 IST" finished-at="2020-03-06T13:03:40 IST">
+      <class name="oops.inheritance.webdriver_Example.Run_TestCases">
+        <test-method status="PASS" signature="Verify_FlighSearch()[pri:0, instance:oops.inheritance.webdriver_Example.Run_TestCases@72b6cbcc]" name="Verify_FlighSearch" duration-ms="15034" started-at="2020-03-06T13:03:25 IST" finished-at="2020-03-06T13:03:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_FlighSearch -->
+      </class> <!-- oops.inheritance.webdriver_Example.Run_TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
